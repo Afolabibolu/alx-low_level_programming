@@ -27,6 +27,6 @@ else if (lastDigit < 6 && lastDigit != 0)
 {
 info = "and is less than 6 and not 0";
 }
-printf("LastDigit of %d is %d %s\n", n, lastDigit, info);
+printf("Last Digit of %d is %d %s\n", n, lastDigit, info);
 return (0);
 }
