@@ -21,7 +21,7 @@ if (lastDigit > 5)
 info = "and is greater than 5";
 }
 else if (lastDigit == 0)
-{info = "and is o";
+{info = "and is 0";
 }
 else if (lastDigit < 6 && lastDigit != 0)
 {
